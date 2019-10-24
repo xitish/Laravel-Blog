@@ -1,0 +1,16 @@
+@import url('https://fonts.googleapis.com/css?family=Arizonia');
+.quote
+{
+   font: 400 62px "Arizonia", Helvetica, sans-serif;
+   color: #f4645f;
+   text-align: center; 
+}
+
+.post-title
+{
+    color: #f4645f;
+}
+.posts
+{
+    text-align: center;
+}
